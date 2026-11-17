@@ -1,0 +1,8 @@
+# ninja log v7
+36	285	8164868718786495	CMakeFiles/algostudy.dir/backend/routes.cpp.obj	f5652f1cabae12f4
+59	291	8164868719007674	CMakeFiles/algostudy.dir/backend/algorithms/searching.cpp.obj	f4b30d45bfea5a93
+46	295	8164868718880669	CMakeFiles/algostudy.dir/backend/algorithms/sorting.cpp.obj	729c599b35b5b763
+73	313	8164868719157186	CMakeFiles/algostudy.dir/backend/models/record.cpp.obj	aef760dbbbee8573
+86	318	8164868719284341	CMakeFiles/algostudy.dir/backend/structures/linked_list.cpp.obj	7cf42cff0d14625d
+26	907	8164868718678459	CMakeFiles/algostudy.dir/backend/main.cpp.obj	8079009f0215a3ff
+909	1154	8164868727496250	algostudy.exe	e34162c892f68294
